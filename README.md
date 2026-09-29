@@ -1,2 +1,5 @@
 # CS4096AIforGamesProject
-Project for the module CS4096 AI for Games
+This is a Games project for our AI for Games Modulue(CS5096).
+
+The Idea of the Game is to make a Top Down Heist Shooter Game.
+
